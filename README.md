@@ -1,6 +1,6 @@
 # Simple Editor
 
-A terminal based text editor with minimun functions.
+A terminal based text editor with minimal functions.
 
 ```
 python editor.py test.txt
